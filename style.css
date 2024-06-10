@@ -1,0 +1,25 @@
+#display {
+  display: block;
+  text-align: center;
+  font-size: 10rem;
+  font-family: Helvetica;
+}
+
+.btnContainer {
+  text-align: center;
+}
+
+.btn {
+  padding: 10px 20px;
+  margin:1rem;
+  font-size: 2rem;
+  color: white;
+  background-color: #12c9ff;
+  border-radius: 5px;
+  cursor:pointer;
+  transition: background-color 0.25s;
+}
+
+.btn:hover{
+    background-color:#3b43d6;
+}
